@@ -28,7 +28,7 @@ This tool is especially useful for users who:
 
 ## 🛠️ How to Use
 
-1. **Download** the `DarkModeToggle.exe` file from the [Releases](#) section.
+1. **Download** the `DarkModeToggle.exe` file from the [Releases](https://github.com/alisduari/DarkModeToggle-for-Windows/releases/download/v0.0.0.0/DarkModeToggle.exe) section.
 2. **Double-click** the file.
 3. Use the GUI buttons: `Dark Mode` or `Light Mode`.
 4. See the current theme status displayed at the bottom.
