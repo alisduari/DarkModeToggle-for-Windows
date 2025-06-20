@@ -54,11 +54,11 @@ I originally planned to release this app as open source. However, the source cod
 
 ## 📂 File Info
 
-![Executable Tooltip](92c181c5-b8d8-43c8-b2de-5b38adab5677.png)
+
 
 - **File**: `DarkModeToggle.exe`
 - **Size**: 120 KB
-- **Version**: 0.0.0 (first public release)
+- **Version**: 0.0.0.0 (first public release)
 - **Release Date**: May 24, 2025
 
 ---
